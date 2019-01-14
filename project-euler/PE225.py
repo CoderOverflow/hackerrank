@@ -1,3 +1,5 @@
+#Point 55
+
 t1, t2, t3, k = map(int, input().split())
 
 def findsomething(t1,t2,t3,k):
